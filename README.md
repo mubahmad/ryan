@@ -1,6 +1,6 @@
-# ryan
+# Ryan
 
-A new Flutter project.
+Ryan is a Jordanian based app developed by Makers Team in efforts to decrease cases by which children fall into wells or holes.
 
 ## Getting Started
 
